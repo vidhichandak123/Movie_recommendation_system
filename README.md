@@ -15,3 +15,7 @@ This is a simple content-based movie recommendation system built using Python.
 1. Open terminal in project folder
 2. Run: python movie_recommendation.py
 3. Enter a movie name
+
+   ## Contribution
+This project was improved by adding documentation updates via a pull request.
+
